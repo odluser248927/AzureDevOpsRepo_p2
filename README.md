@@ -1,5 +1,5 @@
 # AzureDevOpsRepo_p2
-[![Build Status](https://github.com/odluser248927/AzureDevOpsRepo_p2/badge.svg?branch=main)](https://github.com/odluser248927/AzureDevOpsRepo_p2)
+[![Python application test with Github Actions](https://github.com/odluser248927/AzureDevOpsRepo_p2/actions/workflows/main.yml/badge.svg)](https://github.com/odluser248927/AzureDevOpsRepo_p2/actions/workflows/main.yml)
 
 ## Cloud Devops using MS Azure.
 Project2: Build CI/CD PipeLine
