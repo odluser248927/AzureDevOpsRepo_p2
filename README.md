@@ -25,6 +25,13 @@ Configure - Choose the Existing Azure Pipelines YAML file option. When you do no
 Verify actions complete successfully. 
 
 ## Short Description:
+### Python to Linux Web App on Azure                                                             Build your Python project and deploy it to Azure as a Linux Web App.                             Change python version to one thats appropriate for your application.                             https://docs.microsoft.com/azure/devops/pipelines/languages/python
+ 1. Create new project and name it                                                                2. Ensure you set up a new service connection via Azure Resource Manager and Pipeline              > New Service Connection                                          
+ 3. Select Pipeline and create a new one.
+ 4. Create first pipeline
+ 5. Create the GitHub Integration                                            
+ 6. Configure Python to Linux Web App on Azure
+ 7. Set Up the Continuous Delivery Workflow
 
 ## Sheetshots from project:
 ![pScreens1_agent](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/234a63cd-6e96-456f-a52b-88bca223c21a)
