@@ -38,6 +38,16 @@ Verify actions complete successfully.
 
 ![pScreens2_myAgent](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/fd8e72b2-6ce5-410d-a43c-80e6601ef75e)
 
+![flash-ml_gh](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/3f912323-1443-4fa5-8be9-8141415f7eb6)
+
+![makeFileVenvPassedTests](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/dce41300-19f8-41ed-86d7-1e6b69271dfb)
+
+![makeFileVenvPassedTests2](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/adfeed4c-b335-4de8-92f6-4e6cbf46c057)
+
+![buildJobDone_DevOps](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/19d1bc38-7996-49cb-8b8a-71f52d03f119)
+
+
+
 ## Trello Link:
 https://trello.com/invite/b/7ZBr7mHx/ATTI3c02dc9cb1973fbc61a0cd3e08ffbbdf6E3B2DC3/project-2-cicd
 
