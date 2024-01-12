@@ -8,10 +8,9 @@ Project2: Build CI/CD PipeLine
 
 ![gHActions_passed_main](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/f07b1842-6afa-4362-9340-756fd0566e69)
 
+## Architectural Diagrams used in project:
+![Screenshot from 2024-01-08 00-55-57](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/c8e80800-9503-41ff-8015-2bfb3c9b7f59)
 
-## OverView:
-
-## Architectural Diagram:
 ![ArchitecturalDiagram1](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/6670a444-4ceb-4fad-b044-5b6b661c8d28)
 
 
@@ -24,7 +23,8 @@ Configure - Choose the Existing Azure Pipelines YAML file option. When you do no
 
 Verify actions complete successfully. 
 
-## Short Description:
+## OverView: Short Description:
+
 ### Python to Linux Web App on Azure                                                             Build your Python project and deploy it to Azure as a Linux Web App.                             Change python version to one thats appropriate for your application.                             https://docs.microsoft.com/azure/devops/pipelines/languages/python
  1. Create new project and name it                                                                2. Ensure you set up a new service connection via Azure Resource Manager and Pipeline              > New Service Connection                                          
  3. Select Pipeline and create a new one.
@@ -46,7 +46,9 @@ Verify actions complete successfully.
 
 ![buildJobDone_DevOps](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/19d1bc38-7996-49cb-8b8a-71f52d03f119)
 
+![Screenshot from 2023-12-28 03-55-02](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/2b651280-874a-4834-b801-d903b20fe65d)
 
+![Screenshot from 2024-01-10 06-45-40](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/e9210c72-3bd1-408e-a033-9e9b07e1cd14)
 
 ## Trello Link:
 https://trello.com/invite/b/7ZBr7mHx/ATTI3c02dc9cb1973fbc61a0cd3e08ffbbdf6E3B2DC3/project-2-cicd
