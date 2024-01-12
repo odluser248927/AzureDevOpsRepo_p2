@@ -11,6 +11,9 @@ Project2: Build CI/CD PipeLine
 ## Architectural Diagrams used in project:
 ![Screenshot from 2024-01-08 00-55-57](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/c8e80800-9503-41ff-8015-2bfb3c9b7f59)
 
+![azPipeLInesDiagram](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/839ea271-3108-4ff1-9c0d-1354cc2e4ba0)
+
+
 ![ArchitecturalDiagram1](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/6670a444-4ceb-4fad-b044-5b6b661c8d28)
 
 
