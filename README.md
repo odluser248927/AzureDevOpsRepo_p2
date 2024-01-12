@@ -15,7 +15,7 @@ Project2: Build CI/CD PipeLine
 ![ArchitecturalDiagram1](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/6670a444-4ceb-4fad-b044-5b6b661c8d28)
 
 
-## Intructions:
+## Instructions:
 Create and deploy Starter Pipeline.
 Go back to the DevOps project, select Pipeline and create a new one.                                                       
 Connect - Choose the Github repository as the source code location.                                                        
