@@ -76,3 +76,8 @@ https://docs.microsoft.com/azure/devops-project/azure-devops-project-python?WT.m
 
 ### Run lint w/ flake8:                                                                          https://docs.microsoft.com/azure/devops/pipelines/ecosystems/python?view=azure-devops#run-lint-tests-with-flake8?WT.mc_id=udacity_learn-wwl                                                                                                  
 ### End to end example repo:                                                                     https://github.com/noahgift/flask-ml-azure-serverless
+
+## Twitter / X: Azure Devops
+https://twitter.com/AzureDevOps
+
+
