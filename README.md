@@ -34,6 +34,11 @@ Verify actions complete successfully.
  7. Set Up the Continuous Delivery Workflow
 
 ## Sheetshots from project:
+![clonedCloudShell_status](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/811b31c5-5042-4c3e-91bd-267e2c5d2138)
+
+![Screenshot from 2024-01-10 06-45-40](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/48ae164f-fd4d-4fa4-8920-41a27f1a53f2)
+
+
 ![pScreens1_agent](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/234a63cd-6e96-456f-a52b-88bca223c21a)
 
 ![pScreens2_myAgent](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/fd8e72b2-6ce5-410d-a43c-80e6601ef75e)
@@ -57,6 +62,9 @@ https://trello.com/c/uQLAgCFV
 
 ## SpreadSheet:
 [project-management-template_v2.xlsx](https://github.com/odluser248927/AzureDevOpsRepo_p2/files/13911892/project-management-template_v2.xlsx)
+
+## DevOps Demo Vid:
+
 
 ## Other Helpful Resources:
 (Additional Resources from Microsoft)
