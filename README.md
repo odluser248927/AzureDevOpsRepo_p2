@@ -58,7 +58,21 @@ Verify actions complete successfully.
 
 ![Screenshot from 2024-01-10 06-45-40](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/e9210c72-3bd1-408e-a033-9e9b07e1cd14)
 
+![linuxvmList](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/0dafe5c1-bb18-4f01-ae92-8e8f0507aa30)
+
+![moreDevops](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/7581e17c-7b4c-4b9c-99a1-bffd2c0a0f8f)
+
+![devopsBuildsSuccess](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/6a5a7bfc-7f4f-40bb-a10f-e6b71a9bb919)
+
+![skilearn](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/a2a6c072-3702-4eac-a848-aba90e02771a)
+
+![devopsEnv](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/b071a003-6055-4fca-b7fb-1acb5bc859c6)
+
+![deployLogs](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/5d6079c5-5c49-4b12-8902-c3c6351437c8)
+
 ![jsonPayload](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/0b7af460-023a-458c-87a2-dbbbe59f605d)
+
+![webappdebugLogs_misc](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/52839aef-1a57-4ae4-a1a3-885ef0e72517)
 
 ## Trello Link:
 https://trello.com/invite/b/7ZBr7mHx/ATTI3c02dc9cb1973fbc61a0cd3e08ffbbdf6E3B2DC3/project-2-cicd
