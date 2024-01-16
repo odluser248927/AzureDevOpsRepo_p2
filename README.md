@@ -58,6 +58,8 @@ Verify actions complete successfully.
 
 ![Screenshot from 2024-01-10 06-45-40](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/e9210c72-3bd1-408e-a033-9e9b07e1cd14)
 
+![jsonPayload](https://github.com/odluser248927/AzureDevOpsRepo_p2/assets/156160543/0b7af460-023a-458c-87a2-dbbbe59f605d)
+
 ## Trello Link:
 https://trello.com/invite/b/7ZBr7mHx/ATTI3c02dc9cb1973fbc61a0cd3e08ffbbdf6E3B2DC3/project-2-cicd
 
@@ -67,7 +69,10 @@ https://trello.com/c/uQLAgCFV
 [project-management-template_v2.xlsx](https://github.com/odluser248927/AzureDevOpsRepo_p2/files/13911892/project-management-template_v2.xlsx)
 
 ## DevOps Demo Vid:
+(file too large to upload) - Will find another way to upload.  25MB is the limit.
 
+## Link to Repo:
+https://github.com/odluser248927?tab=repositories
 
 ## Other Helpful Resources:
 (Additional Resources from Microsoft)
