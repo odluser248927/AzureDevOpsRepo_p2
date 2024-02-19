@@ -83,7 +83,13 @@ https://trello.com/c/uQLAgCFV
 [project-management-template_v2.xlsx](https://github.com/odluser248927/AzureDevOpsRepo_p2/files/13911892/project-management-template_v2.xlsx)
 
 ## DevOps Demo Vid:
-(file too large to upload) - Will find another way to upload.  25MB is the limit.
+### (Demo: had to be broken up into 3 vids):  Youtube has a limit of 15mins.
+## vid1:
+https://youtu.be/QV7aF6SfYL4
+## vid2:
+https://youtu.be/CggQT9D5UXg
+## vid3:
+https://youtu.be/s5oAKu-ccAY
 
 ## Link to Repo:
 https://github.com/odluser248927?tab=repositories
